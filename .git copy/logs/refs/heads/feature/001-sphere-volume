@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 c2dc2266f13087d714374c41f75cc3aac3f96f16 a.hernandez.gtz@gmail.com <a.hernandez.gtz@gmail.com> 1765795950 +1100	branch: Created from HEAD
+c2dc2266f13087d714374c41f75cc3aac3f96f16 aee6763f74d6ba072b5ece82969952de9f2b498e a.hernandez.gtz@gmail.com <a.hernandez.gtz@gmail.com> 1765835514 +1100	commit: Develop, test and validate sphere.py
+aee6763f74d6ba072b5ece82969952de9f2b498e 387c0e53adb068adbd758e3418c91c71c8d9017e a.hernandez.gtz@gmail.com <a.hernandez.gtz@gmail.com> 1765835590 +1100	commit: Add sphere option to main.py
